@@ -1,0 +1,648 @@
+{
+  "facile": [
+    {
+      "mot": "chair",
+      "definition": "a piece of furniture with a seat and backrest, typically used for sitting",
+      "indice": "seating"
+    },
+    {
+      "mot": "bird",
+      "definition": "a warm-blooded vertebrate with feathers, wings, and a beak",
+      "indice": "avian"
+    },
+    {
+      "mot": "river",
+      "definition": "a large natural stream of water flowing in a channel to the sea, a lake, or another river",
+      "indice": "watercourse"
+    },
+    {
+      "mot": "table",
+      "definition": "a piece of furniture with a flat top and one or more legs",
+      "indice": "furniture"
+    },
+    {
+      "mot": "book",
+      "definition": "a written or printed work consisting of pages glued or sewn together along one side",
+      "indice": "literature"
+    },
+    {
+      "mot": "moon",
+      "definition": "the natural satellite of the earth, visible by reflected light from the sun",
+      "indice": "lunar"
+    },
+    {
+      "mot": "car",
+      "definition": "a road vehicle with four wheels, typically propelled by an internal combustion engine",
+      "indice": "automobile"
+    },
+    {
+      "mot": "hat",
+      "definition": "a covering for the head, typically with a brim and a shaped crown",
+      "indice": "headwear"
+    },
+    {
+      "mot": "paper",
+      "definition": "a material manufactured in thin sheets from pulp of wood or other fibrous substances",
+      "indice": "document"
+    },
+    {
+      "mot": "plate",
+      "definition": "a flat, usually round dish or shallow bowl used for holding food",
+      "indice": "tableware"
+    },
+    {
+      "mot": "watch",
+      "definition": "a small timepiece worn typically on a strap on one's wrist",
+      "indice": "time"
+    },
+    {
+      "mot": "house",
+      "definition": "a building used for living in, typically one that is a permanent residence",
+      "indice": "residence"
+    },
+    {
+      "mot": "pen",
+      "definition": "a tool used for writing or drawing with ink",
+      "indice": "writing instrument"
+    },
+    {
+      "mot": "flower",
+      "definition": "the reproductive structure found in plants, typically brightly colored and scented",
+      "indice": "blossom"
+    },
+    {
+      "mot": "ball",
+      "definition": "a spherical or round object used in various games and sports",
+      "indice": "sphere"
+    },
+    {
+      "mot": "door",
+      "definition": "a hinged, sliding, or revolving barrier at the entrance to a building",
+      "indice": "entryway"
+    },
+    {
+      "mot": "sky",
+      "definition": "the region of the atmosphere and outer space seen from the earth",
+      "indice": "celestial"
+    },
+    {
+      "mot": "water",
+      "definition": "a transparent, tasteless, and odorless liquid",
+      "indice": "liquid"
+    },
+    {
+      "mot": "sun",
+      "definition": "the star that is the central body of the solar system and the primary source of light and heat",
+      "indice": "celestial"
+    },
+    {
+      "mot": "bookcase",
+      "definition": "a piece of furniture with shelves for storing books",
+      "indice": "shelf"
+    },
+    {
+      "mot": "tree",
+      "definition": "a woody perennial plant with a distinct trunk and branches",
+      "indice": "forest"
+    },
+    {
+      "mot": "cat",
+      "definition": "a domesticated four-legged animal, usually with retractable claws and long soft fur",
+      "indice": "feline"
+    },
+    {
+      "mot": "bicycle",
+      "definition": "a vehicle with two wheels in tandem, propelled by pedals",
+      "indice": "bike"
+    },
+    {
+      "mot": "window",
+      "definition": "an opening in a wall or door, usually fitted with glass",
+      "indice": "glass"
+    },
+    {
+      "mot": "apple",
+      "definition": "a round fruit with firm white flesh and red, green, or yellow skin",
+      "indice": "fruit"
+    },
+    {
+      "mot": "friend",
+      "definition": "a person with whom one has a bond of mutual affection",
+      "indice": "companion"
+    },
+    {
+      "mot": "star",
+      "definition": "a luminous sphere of plasma held together by its own gravity",
+      "indice": "celestial"
+    },
+    {
+      "mot": "bread",
+      "definition": "a staple food made from flour, water, and yeast, baked in an oven",
+      "indice": "bakery"
+    },
+    {
+      "mot": "dog",
+      "definition": "a domesticated four-legged animal, often kept as a pet or working animal",
+      "indice": "canine"
+    },
+    {
+      "mot": "bed",
+      "definition": "a piece of furniture used for sleeping or resting",
+      "indice": "sleep"
+    },
+    {
+      "mot": "flowerpot",
+      "definition": "a container in which plants are grown",
+      "indice": "plant"
+    },
+    {
+      "mot": "lamp",
+      "definition": "a device that produces light by the flow of electrical current",
+      "indice": "light"
+    },
+    {
+      "mot": "clock",
+      "definition": "a device for measuring and showing the time",
+      "indice": "timepiece"
+    },
+    {
+      "mot": "shoe",
+      "definition": "an outer covering for the foot, typically made of leather or rubber",
+      "indice": "footwear"
+    },
+    {
+      "mot": "chair",
+      "definition": "a piece of furniture with a seat and backrest, typically used for sitting",
+      "indice": "seating"
+    },
+    {
+      "mot": "bird",
+      "definition": "a warm-blooded vertebrate with feathers, wings, and a beak",
+      "indice": "avian"
+    },
+    {
+      "mot": "river",
+      "definition": "a large natural stream of water flowing in a channel to the sea, a lake, or another river",
+      "indice": "watercourse"
+    },
+    {
+      "mot": "table",
+      "definition": "a piece of furniture with a flat top and one or more legs",
+      "indice": "furniture"
+    },
+    {
+      "mot": "book",
+      "definition": "a written or printed work consisting of pages glued or sewn together along one side",
+      "indice": "literature"
+    },
+    {
+      "mot": "moon",
+      "definition": "the natural satellite of the earth, visible by reflected light from the sun",
+      "indice": "lunar"
+    },
+    {
+      "mot": "car",
+      "definition": "a road vehicle with four wheels, typically propelled by an internal combustion engine",
+      "indice": "automobile"
+    },
+    {
+      "mot": "hat",
+      "definition": "a covering for the head, typically with a brim and a shaped crown",
+      "indice": "headwear"
+    },
+    {
+      "mot": "paper",
+      "definition": "a material manufactured in thin sheets from pulp of wood or other fibrous substances",
+      "indice": "document"
+    },
+    {
+      "mot": "plate",
+      "definition": "a flat, usually round dish or shallow bowl used for holding food",
+      "indice": "tableware"
+    },
+    {
+      "mot": "watch",
+      "definition": "a small timepiece worn typically on a strap on one's wrist",
+      "indice": "time"
+    },
+    {
+      "mot": "house",
+      "definition": "a building used for living in, typically one that is a permanent residence",
+      "indice": "residence"
+    },
+    {
+      "mot": "pen",
+      "definition": "a tool used for writing or drawing with ink",
+      "indice": "writing instrument"
+    },
+    {
+      "mot": "flower",
+      "definition": "the reproductive structure found in plants, typically brightly colored and scented",
+      "indice": "blossom"
+    },
+    {
+      "mot": "ball",
+      "definition": "a spherical or round object used in various games and sports",
+      "indice": "sphere"
+    },
+    {
+      "mot": "door",
+      "definition": "a hinged, sliding, or revolving barrier at the entrance to a building",
+      "indice": "entryway"
+    },
+    {
+      "mot": "sky",
+      "definition": "the region of the atmosphere and outer space seen from the earth",
+      "indice": "celestial"
+    },
+    {
+      "mot": "water",
+      "definition": "a transparent, tasteless, and odorless liquid",
+      "indice": "liquid"
+    },
+    {
+      "mot": "sun",
+      "definition": "the star that is the central body of the solar system and the primary source of light and heat",
+      "indice": "celestial"
+    },
+    {
+      "mot": "bookcase",
+      "definition": "a piece of furniture with shelves for storing books",
+      "indice": "shelf"
+    },
+    {
+      "mot": "tree",
+      "definition": "a woody perennial plant with a distinct trunk and branches",
+      "indice": "forest"
+    },
+    {
+      "mot": "cat",
+      "definition": "a domesticated four-legged animal, usually with retractable claws and long soft fur",
+      "indice": "feline"
+    },
+    {
+      "mot": "bicycle",
+      "definition": "a vehicle with two wheels in tandem, propelled by pedals",
+      "indice": "bike"
+    },
+    {
+      "mot": "window",
+      "definition": "an opening in a wall or door, usually fitted with glass",
+      "indice": "glass"
+    },
+    {
+      "mot": "apple",
+      "definition": "a round fruit with firm white flesh and red, green, or yellow skin",
+      "indice": "fruit"
+    },
+    {
+      "mot": "friend",
+      "definition": "a person with whom one has a bond of mutual affection",
+      "indice": "companion"
+    },
+    {
+      "mot": "star",
+      "definition": "a luminous sphere of plasma held together by its own gravity",
+      "indice": "celestial"
+    },
+    {
+      "mot": "bread",
+      "definition": "a staple food made from flour, water, and yeast, baked in an oven",
+      "indice": "bakery"
+    },
+    {
+      "mot": "dog",
+      "definition": "a domesticated four-legged animal, often kept as a pet or working animal",
+      "indice": "canine"
+    },
+    {
+      "mot": "bed",
+      "definition": "a piece of furniture used for sleeping or resting",
+      "indice": "sleep"
+    },
+    {
+      "mot": "flowerpot",
+      "definition": "a container in which plants are grown",
+      "indice": "plant"
+    },
+    {
+      "mot": "lamp",
+      "definition": "a device that produces light by the flow of electrical current",
+      "indice": "light"
+    },
+    {
+      "mot": "clock",
+      "definition": "a device for measuring and showing the time",
+      "indice": "timepiece"
+    },
+    {
+      "mot": "shoe",
+      "definition": "an outer covering for the foot, typically made of leather or rubber",
+      "indice": "footwear"
+    }
+  ],
+  "intermediaire": [
+    {
+      "mot": "guitar",
+      "definition": "a stringed musical instrument with a fretted fingerboard and typically six strings",
+      "indice": "music"
+    },
+    {
+      "mot": "camera",
+      "definition": "a device used to capture and store photographs or videos",
+      "indice": "photography"
+    },
+    {
+      "mot": "planet",
+      "definition": "a celestial body moving in an elliptical orbit around a star",
+      "indice": "astronomy"
+    },
+    {
+      "mot": "pencil",
+      "definition": "a writing instrument with a thin cylindrical graphite core encased in wood",
+      "indice": "stationery"
+    },
+    {
+      "mot": "sunset",
+      "definition": "the daily disappearance of the sun below the horizon",
+      "indice": "evening"
+    },
+    {
+      "mot": "coffee",
+      "definition": "a hot drink made from roasted coffee beans",
+      "indice": "beverage"
+    },
+    {
+      "mot": "soccer",
+      "definition": "a team sport played with a round ball between two teams of eleven players",
+      "indice": "football"
+    },
+    {
+      "mot": "butter",
+      "definition": "a solid yellow fat made from milk or cream",
+      "indice": "dairy"
+    },
+    {
+      "mot": "beauty",
+      "definition": "a combination of qualities that pleases the aesthetic senses",
+      "indice": "attractive"
+    },
+    {
+      "mot": "sweater",
+      "definition": "a knitted garment for the upper body, typically with long sleeves",
+      "indice": "clothing"
+    },
+    {
+      "mot": "garden",
+      "definition": "a piece of land used for growing flowers, fruits, or vegetables",
+      "indice": "horticulture"
+    },
+    {
+      "mot": "orange",
+      "definition": "a round citrus fruit with a tough bright reddish-yellow rind",
+      "indice": "fruit"
+    },
+    {
+      "mot": "candle",
+      "definition": "a cylinder of wax with a central wick that is lit to produce light",
+      "indice": "illumination"
+    },
+    {
+      "mot": "jacket",
+      "definition": "a short coat typically extending to the waist",
+      "indice": "clothing"
+    },
+    {
+      "mot": "school",
+      "definition": "an institution for educating children or young people",
+      "indice": "education"
+    },
+    {
+      "mot": "bottle",
+      "definition": "a container with a narrow neck used for holding liquids",
+      "indice": "container"
+    },
+    {
+      "mot": "flight",
+      "definition": "a journey made through the air, especially in an aircraft",
+      "indice": "travel"
+    },
+    {
+      "mot": "summer",
+      "definition": "the warmest season of the year, between spring and autumn",
+      "indice": "season"
+    },
+    {
+      "mot": "jungle",
+      "definition": "a dense forest in a tropical region",
+      "indice": "wilderness"
+    },
+    {
+      "mot": "camera",
+      "definition": "a device used to capture and store photographs or videos",
+      "indice": "photography"
+    },
+    {
+      "mot": "planet",
+      "definition": "a celestial body moving in an elliptical orbit around a star",
+      "indice": "astronomy"
+    },
+    {
+      "mot": "pencil",
+      "definition": "a writing instrument with a thin cylindrical graphite core encased in wood",
+      "indice": "stationery"
+    },
+    {
+      "mot": "sunset",
+      "definition": "the daily disappearance of the sun below the horizon",
+      "indice": "evening"
+    },
+    {
+      "mot": "coffee",
+      "definition": "a hot drink made from roasted coffee beans",
+      "indice": "beverage"
+    },
+    {
+      "mot": "soccer",
+      "definition": "a team sport played with a round ball between two teams of eleven players",
+      "indice": "football"
+    },
+    {
+      "mot": "butter",
+      "definition": "a solid yellow fat made from milk or cream",
+      "indice": "dairy"
+    },
+    {
+      "mot": "beauty",
+      "definition": "a combination of qualities that pleases the aesthetic senses",
+      "indice": "attractive"
+    },
+    {
+      "mot": "sweater",
+      "definition": "a knitted garment for the upper body, typically with long sleeves",
+      "indice": "clothing"
+    },
+    {
+      "mot": "garden",
+      "definition": "a piece of land used for growing flowers, fruits, or vegetables",
+      "indice": "horticulture"
+    },
+    {
+      "mot": "orange",
+      "definition": "a round citrus fruit with a tough bright reddish-yellow rind",
+      "indice": "fruit"
+    }
+  ],
+  "difficile": [
+    {
+      "mot": "technology",
+      "definition": "the application of scientific knowledge for practical purposes",
+      "indice": "innovation"
+    },
+    {
+      "mot": "architecture",
+      "definition": "the art or practice of designing and constructing buildings",
+      "indice": "design"
+    },
+    {
+      "mot": "breathtaking",
+      "definition": "astonishing or awe-inspiring in quality, appearance, or extent",
+      "indice": "stunning"
+    },
+    {
+      "mot": "hypothesis",
+      "definition": "a supposition or proposed explanation made on limited evidence as a starting point for further investigation",
+      "indice": "theory"
+    },
+    {
+      "mot": "intelligence",
+      "definition": "the ability to acquire and apply knowledge and skills",
+      "indice": "cognition"
+    },
+    {
+      "mot": "exquisite",
+      "definition": "extremely beautiful and, typically, delicate",
+      "indice": "elegant"
+    },
+    {
+      "mot": "university",
+      "definition": "an educational institution designed for instruction, examination, or both",
+      "indice": "college"
+    },
+    {
+      "mot": "championship",
+      "definition": "a competition to determine the best in a particular sport or activity",
+      "indice": "title"
+    },
+    {
+      "mot": "fascinating",
+      "definition": "extremely interesting or attractive",
+      "indice": "captivating"
+    },
+    {
+      "mot": "ambassador",
+      "definition": "a diplomatic official representing a country or organization",
+      "indice": "diplomacy"
+    },
+    {
+      "mot": "celebration",
+      "definition": "the action of marking an important event or occasion with festivities",
+      "indice": "festivity"
+    },
+    {
+      "mot": "magnificent",
+      "definition": "impressively beautiful, elaborate, or extravagant",
+      "indice": "splendid"
+    },
+    {
+      "mot": "furniture",
+      "definition": "movable articles that are used to make a room or building suitable for living or working",
+      "indice": "decor"
+    },
+    {
+      "mot": "restaurant",
+      "definition": "a place where people pay to sit and eat meals that are cooked and served on the premises",
+      "indice": "dining"
+    },
+    {
+      "mot": "experience",
+      "definition": "practical contact with and observation of facts or events",
+      "indice": "knowledge"
+    },
+    {
+      "mot": "development",
+      "definition": "the process of growth or advancement",
+      "indice": "progress"
+    },
+    {
+      "mot": "philosophy",
+      "definition": "the study of fundamental questions about existence, knowledge, values, reason, etc.",
+      "indice": "wisdom"
+    },
+    {
+      "mot": "chocolate",
+      "definition": "a food preparation made from roasted and ground cacao seeds",
+      "indice": "dessert"
+    },
+    {
+      "mot": "adventure",
+      "definition": "an unusual and exciting experience or activity",
+      "indice": "expedition"
+    },
+    {
+      "mot": "generation",
+      "definition": "all of the people born and living at about the same time",
+      "indice": "age"
+    },
+    {
+      "mot": "breathtaking",
+      "definition": "astonishing or awe-inspiring in quality, appearance, or extent",
+      "indice": "stunning"
+    },
+    {
+      "mot": "hypothesis",
+      "definition": "a supposition or proposed explanation made on limited evidence as a starting point for further investigation",
+      "indice": "theory"
+    },
+    {
+      "mot": "intelligence",
+      "definition": "the ability to acquire and apply knowledge and skills",
+      "indice": "cognition"
+    },
+    {
+      "mot": "exquisite",
+      "definition": "extremely beautiful and, typically, delicate",
+      "indice": "elegant"
+    },
+    {
+      "mot": "university",
+      "definition": "an educational institution designed for instruction, examination, or both",
+      "indice": "college"
+    },
+    {
+      "mot": "championship",
+      "definition": "a competition to determine the best in a particular sport or activity",
+      "indice": "title"
+    },
+    {
+      "mot": "fascinating",
+      "definition": "extremely interesting or attractive",
+      "indice": "captivating"
+    },
+    {
+      "mot": "ambassador",
+      "definition": "a diplomatic official representing a country or organization",
+      "indice": "diplomacy"
+    },
+    {
+      "mot": "celebration",
+      "definition": "the action of marking an important event or occasion with festivities",
+      "indice": "festivity"
+    },
+    {
+      "mot": "magnificent",
+      "definition": "impressively beautiful, elaborate, or extravagant",
+      "indice": "splendid"
+    }
+  ]
+}
